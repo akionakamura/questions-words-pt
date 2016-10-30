@@ -23,3 +23,4 @@ The files under `./relations/` are organized as follows:
 | `gram2-opposite-pt.txt`            | Opposites                           | feliz infeliz    |
 | `gram3-comparative-pt.txt`         | Adjective and comparatives          | pequeno menor    |
 | `gram4-superlative-pt.txt`         | Adjective and superlatives          | bom melhor       |
+| `gram5-gerund-pt.txt.txt`          | Verb and gerund                     | voar voando      |
