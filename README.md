@@ -9,3 +9,10 @@ For the English language, a [commonly used file](http://download.tensorflow.org/
 Under the `./relations/` directory, one can find simply `x is to y` relations separated into files under certain categories. Run the `./build-questions-words.py` to build a single `questions-words-pt.txt` file with the complete `x is to y as w is to z` relations.
 
 Feel free to contribute and expand our base :)
+
+## Relations
+The files under `./relations/` are organized as follows:
+
+| File                               | Relation                     | Example         |
+| ---------------------------------- | ---------------------------- |---------------- |
+| `capital-common-countries-pt.txt`  | A common capital and country | Berlim Alemanha |
