@@ -21,3 +21,4 @@ The files under `./relations/` are organized as follows:
 | `family-pt.txt`                    | Family and relationship gender wise | marido esposa    |
 | `gram1-adjective-to-adverb-pt.txt` | Adjective and adverb                | calmo calmamente |
 | `gram2-opposite-pt.txt`            | Opposites                           | feliz infeliz    |
+| `gram3-comparative-pt.txt`         | Adjective and comparatives          | pequeno menor    |
