@@ -13,6 +13,7 @@ Feel free to contribute and expand our base :)
 ## Relations
 The files under `./relations/` are organized as follows:
 
-| File                               | Relation                     | Example         |
-| ---------------------------------- | ---------------------------- |---------------- |
-| `capital-common-countries-pt.txt`  | A common capital and country | Berlim Alemanha |
+| File                               | Relation                          | Example         |
+| ---------------------------------- | --------------------------------- |---------------- |
+| `capital-common-countries-pt.txt`  | A common capital and country      | Berlim Alemanha |
+| `capital-world-pt.txt`             | A less common capital and country | Accra Ghana     |
