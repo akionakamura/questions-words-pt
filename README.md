@@ -27,3 +27,4 @@ The files under `./relations/` are organized as follows:
 | `gram6-nationality-adjective-pt.txt` | Country and nationaly               | Dinamarca dinarquês |
 | `gram7-past-tense-pt.txt`            | Verb and past tense                 | ir foi              |
 | `gram8-plural-pt.txt`                | Nouns and plurals                   | dedo dedos          |
+| `gram9-plural-verbs-pt.txt`          | Verbs and present tense plural      | vai vão             |
