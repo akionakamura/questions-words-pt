@@ -1,4 +1,4 @@
-# [Initial commit under construction] Portuguese Words Analogy
+# [Script under construction] Portuguese Words Analogy
 
 Word embeddings are useful for a variety of NLP tasks, from the classic Part-of-speech to the state of the art machine translation. There are several word embeddings techniques, like [Word2Vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) or [GloVe](http://nlp.stanford.edu/projects/glove/), but since they usually have an unsupervised training, evaluating the embeddings quality can be a challenge and depend on the problem to be solved.
 
