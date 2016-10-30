@@ -22,3 +22,4 @@ The files under `./relations/` are organized as follows:
 | `gram1-adjective-to-adverb-pt.txt` | Adjective and adverb                | calmo calmamente |
 | `gram2-opposite-pt.txt`            | Opposites                           | feliz infeliz    |
 | `gram3-comparative-pt.txt`         | Adjective and comparatives          | pequeno menor    |
+| `gram4-superlative-pt.txt`         | Adjective and superlatives          | bom melhor       |
