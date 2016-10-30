@@ -13,14 +13,15 @@ Feel free to contribute and expand our base :)
 ## Relations
 The files under `./relations/` are organized as follows:
 
-| File                               | Relation                            | Example          |
-| ---------------------------------- | ----------------------------------- |----------------- |
-| `capital-common-countries-pt.txt`  | A common capital and country        | Berlim Alemanha  |
-| `capital-world-pt.txt`             | A less common capital and country   | Accra Ghana      |
-| `city-in-us-state-pt.txt`          | A capital and US state              | Dallas Texas     |
-| `family-pt.txt`                    | Family and relationship gender wise | marido esposa    |
-| `gram1-adjective-to-adverb-pt.txt` | Adjective and adverb                | calmo calmamente |
-| `gram2-opposite-pt.txt`            | Opposites                           | feliz infeliz    |
-| `gram3-comparative-pt.txt`         | Adjective and comparatives          | pequeno menor    |
-| `gram4-superlative-pt.txt`         | Adjective and superlatives          | bom melhor       |
-| `gram5-gerund-pt.txt.txt`          | Verb and gerund                     | voar voando      |
+| File                                 | Relation                            | Example             |
+| ------------------------------------ | ----------------------------------- |-------------------- |
+| `capital-common-countries-pt.txt`    | A common capital and country        | Berlim Alemanha     |
+| `capital-world-pt.txt`               | A less common capital and country   | Accra Ghana         |
+| `city-in-us-state-pt.txt`            | A capital and US state              | Dallas Texas        |
+| `family-pt.txt`                      | Family and relationship gender wise | marido esposa       |
+| `gram1-adjective-to-adverb-pt.txt`   | Adjective and adverb                | calmo calmamente    |
+| `gram2-opposite-pt.txt`              | Opposites                           | feliz infeliz       |
+| `gram3-comparative-pt.txt`           | Adjective and comparatives          | pequeno menor       |
+| `gram4-superlative-pt.txt`           | Adjective and superlatives          | bom melhor          |
+| `gram5-gerund-pt.txt`                | Verb and gerund                     | voar voando         |
+| `gram6-nationality-adjective-pt.txt` | Country and nationaly               | Dinamarca dinarquês |
