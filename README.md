@@ -1,4 +1,4 @@
-# [Initial commit under construction] Portuguese Words Analogy
+# [Script under construction] Portuguese Words Analogy
 
 Word embeddings are useful for a variety of NLP tasks, from the classic Part-of-speech to the state of the art machine translation. There are several word embeddings techniques, like [Word2Vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) or [GloVe](http://nlp.stanford.edu/projects/glove/), but since they usually have an unsupervised training, evaluating the embeddings quality can be a challenge and depend on the problem to be solved.
 
@@ -9,3 +9,22 @@ For the English language, a [commonly used file](http://download.tensorflow.org/
 Under the `./relations/` directory, one can find simply `x is to y` relations separated into files under certain categories. Run the `./build-questions-words.py` to build a single `questions-words-pt.txt` file with the complete `x is to y as w is to z` relations.
 
 Feel free to contribute and expand our base :)
+
+## Relations
+The files under `./relations/` are organized as follows:
+
+| File                                 | Relation                            | Example             |
+| ------------------------------------ | ----------------------------------- |-------------------- |
+| `capital-common-countries-pt.txt`    | A common capital and country        | Berlim Alemanha     |
+| `capital-world-pt.txt`               | A less common capital and country   | Accra Ghana         |
+| `city-in-us-state-pt.txt`            | A capital and US state              | Dallas Texas        |
+| `family-pt.txt`                      | Family and relationship gender wise | marido esposa       |
+| `gram1-adjective-to-adverb-pt.txt`   | Adjective and adverb                | calmo calmamente    |
+| `gram2-opposite-pt.txt`              | Opposites                           | feliz infeliz       |
+| `gram3-comparative-pt.txt`           | Adjective and comparatives          | pequeno menor       |
+| `gram4-superlative-pt.txt`           | Adjective and superlatives          | bom melhor          |
+| `gram5-gerund-pt.txt`                | Verb and gerund                     | voar voando         |
+| `gram6-nationality-adjective-pt.txt` | Country and nationaly               | Dinamarca dinarquês |
+| `gram7-past-tense-pt.txt`            | Verb and past tense                 | ir foi              |
+| `gram8-plural-pt.txt`                | Nouns and plurals                   | dedo dedos          |
+| `gram9-plural-verbs-pt.txt`          | Verbs and present tense plural      | vai vão             |
