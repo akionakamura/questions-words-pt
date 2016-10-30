@@ -25,3 +25,4 @@ The files under `./relations/` are organized as follows:
 | `gram4-superlative-pt.txt`           | Adjective and superlatives          | bom melhor          |
 | `gram5-gerund-pt.txt`                | Verb and gerund                     | voar voando         |
 | `gram6-nationality-adjective-pt.txt` | Country and nationaly               | Dinamarca dinarquês |
+| `gram7-past-tense-pt.txt`            | Verb and past tense                 | ir foi              |
