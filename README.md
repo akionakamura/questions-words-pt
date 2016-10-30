@@ -20,3 +20,4 @@ The files under `./relations/` are organized as follows:
 | `city-in-us-state-pt.txt`          | A capital and US state              | Dallas Texas     |
 | `family-pt.txt`                    | Family and relationship gender wise | marido esposa    |
 | `gram1-adjective-to-adverb-pt.txt` | Adjective and adverb                | calmo calmamente |
+| `gram2-opposite-pt.txt`            | Opposites                           | feliz infeliz    |
