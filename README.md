@@ -13,9 +13,9 @@ Feel free to contribute and expand our base :)
 ## Relations
 The files under `./relations/` are organized as follows:
 
-| File                               | Relation                          | Example         |
-| ---------------------------------- | --------------------------------- |---------------- |
-| `capital-common-countries-pt.txt`  | A common capital and country      | Berlim Alemanha |
-| `capital-world-pt.txt`             | A less common capital and country | Accra Ghana     |
-| `city-in-us-state-pt.txt`          | A capital and US state            | Dallas Texas    |
-| `currency-pt.txt`                  | The current and country           | Brasil real     |
+| File                               | Relation                            | Example         |
+| ---------------------------------- | ----------------------------------- |---------------- |
+| `capital-common-countries-pt.txt`  | A common capital and country        | Berlim Alemanha |
+| `capital-world-pt.txt`             | A less common capital and country   | Accra Ghana     |
+| `city-in-us-state-pt.txt`          | A capital and US state              | Dallas Texas    |
+| `family-pt.txt`                    | Family and relationship gender wise | marido esposa   |
